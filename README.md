@@ -21,8 +21,7 @@ Estas pruebas están implementadas usando **Python** y **Selenium WebDriver** co
 4. [Casos de Prueba](#casos-de-prueba)
 5. [Estructura del Proyecto](#estructura-del-proyecto)
 6. [Ejecución de las Pruebas](#ejecución-de-las-pruebas)
-7. [Contribuir](#contribuir)
-8. [Licencia](#licencia)
+
 
 ## 🔥 **Características**
 
